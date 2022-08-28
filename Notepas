@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<title>Notepad</title>
+
+<head> Currently in early stages of development expect bugs.
+</head>
+
+<body>
+    <h1>Notepad</h1>
+    <div>---------------------------------------------------------------------------------------------------------------------</div>
+
+    <div>1.</div>
+    <br> 2.
+    <div><br>3.</div>
+    <div><br>4.</div>
+
+</body>
+<div>
+        <br>
+        <div>5</div>
+        <p> Test Link <a href="" target="_blank" rel="noopener norefferer">Test</a></a> Cool Huh?</a></p>
+
+</html>
